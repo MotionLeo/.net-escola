@@ -1,0 +1,15 @@
+E:\.Net\Escola\obj\Debug\net7.0\Escola.csproj.AssemblyReference.cache
+E:\.Net\Escola\obj\Debug\net7.0\Escola.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net\Escola\bin\Debug\net7.0\Escola.exe
+E:\.Net\Escola\bin\Debug\net7.0\Escola.deps.json
+E:\.Net\Escola\bin\Debug\net7.0\Escola.runtimeconfig.json
+E:\.Net\Escola\bin\Debug\net7.0\Escola.dll
+E:\.Net\Escola\bin\Debug\net7.0\Escola.pdb
+E:\.Net\Escola\obj\Debug\net7.0\Escola.AssemblyInfoInputs.cache
+E:\.Net\Escola\obj\Debug\net7.0\Escola.AssemblyInfo.cs
+E:\.Net\Escola\obj\Debug\net7.0\Escola.csproj.CoreCompileInputs.cache
+E:\.Net\Escola\obj\Debug\net7.0\Escola.dll
+E:\.Net\Escola\obj\Debug\net7.0\refint\Escola.dll
+E:\.Net\Escola\obj\Debug\net7.0\Escola.pdb
+E:\.Net\Escola\obj\Debug\net7.0\Escola.genruntimeconfig.cache
+E:\.Net\Escola\obj\Debug\net7.0\ref\Escola.dll
